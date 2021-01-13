@@ -1,0 +1,7 @@
+date TBD
+- added person.ttl
+- added usage notes to person.ttl (taken from the .pdf or .rdf)
+- added skos:altLabels based on the mapping with the Public Document Schema's (see https://github.com/SEMICeu/Core-Person-Vocabulary/issues/3)
+- changed the ranges of the Person attributes from string to literal
+- replaced "Johan Sebastian Bach" in the usage note of given name with "Johann Sebastian Bach"
+
